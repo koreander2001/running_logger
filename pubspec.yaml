@@ -1,5 +1,5 @@
 name: running_logger
-description: "App for logging memory of running."
+description: "App for logging running records."
 publish_to: "none"
 version: 0.1.0
 
